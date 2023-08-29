@@ -23,7 +23,7 @@ Perform histogram equalization using equalizeHist() for enhanced contrast.
 Visualize results by plotting histograms and displaying original and equalized images side by side.
 
 ## Program:
-ython
+
 # Developed By:PRAKASH M
 # Register Number:212222100035
 ```
@@ -145,7 +145,8 @@ cv2.destroyAllWindows()
 ### Input Grayscale Image and Color Image
 ![image](https://github.com/Prakashmathi2004/HISTOGRAM/assets/118350045/fcb74ba3-2347-4a14-beeb-29ba0415933c)
 
-![image](https://github.com/Prakashmathi2004/HISTOGRAM/assets/118350045/dcf50883-a151-4b40-a131-868a5478911d)
+![image](https://github.com/Prakashmathi2004/HISTOGRAM/assets/118350045/1991a34c-bc58-46c4-b9c0-564b6eaab512)
+
 ### Histogram of Color Image
 <img width="438" alt="image" src="https://github.com/Prakashmathi2004/HISTOGRAM/assets/118350045/131d5b0b-1747-4bcd-aedf-fe46436701ab">
 
